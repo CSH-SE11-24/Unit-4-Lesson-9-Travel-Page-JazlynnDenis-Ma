@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+
+
+h1{
+  text-align: center;
+  background-color:aliceblue;
+  padding-top: 2vh;
+  padding-bottom: 4vh;
+}
